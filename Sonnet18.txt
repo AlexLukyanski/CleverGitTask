@@ -31,3 +31,5 @@ Second fix
 Third fix
 
 Fourth fix
+
+Fatal bug fix in release-2
