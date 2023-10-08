@@ -23,3 +23,7 @@ So long lives this, and this gives life to thee.
 What am I doing here?
 
 New line
+
+First fix
+
+Second fix
