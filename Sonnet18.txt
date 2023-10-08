@@ -25,3 +25,5 @@ What am I doing here?
 New line
 
 First fix
+
+Second fix
